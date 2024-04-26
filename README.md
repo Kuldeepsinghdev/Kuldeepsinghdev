@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Kuldeepsinghdev, and I have a strong passion for mobile 📱 application development. Currently, I'm deeply immersed in learning the MERN stack—a versatile and powerful combination of technologies for web development.
+- 👋 Hello, I'm @Kuldeepsinghdev, and I have a strong passion for mobile 📱 application development. Currently, I'm deeply immersed in learning the All Mobile application stack.
 
 -  I'm eager to collaborate with like-minded individuals on exciting projects and expand my horizons in the world of software development. If you have any opportunities, questions, or ideas to discuss, please feel free to reach out to me at kuldeepsingh.dev@outlook.com.
 
