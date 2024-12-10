@@ -48,6 +48,8 @@ Beyond technical skills, I bring strong leadership capabilities, including:
 
 My career has been defined by a relentless pursuit of excellence, characterized by adaptability, innovation, and a commitment to pushing the boundaries of what's technically possible. I am passionate about leveraging my experiences and skills to conquer new frontiers and deliver exceptional value in the software industry.
 
+## Resume --- [Kuldeep_updated_Resume.pdf](https://github.com/user-attachments/files/18076055/Kuldeep_updated_Resume.pdf)
+
 ---
 
 Feel free to reach out or explore my projects to learn more about my work and contributions to the software development community at kuldeep.singh@readnrevise.com/kuldeepsingh.dev@outlook.com.
