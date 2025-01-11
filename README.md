@@ -31,11 +31,6 @@ I specialize in developing cutting-edge mobile applications and web systems, wit
   - AWS API Gateway
   - AWS S3
 
-- **Software Architecture**: 
-  - MVC
-  - MVP
-  - MVVM patterns
-
 ## Leadership and Management
 
 Beyond technical skills, I bring strong leadership capabilities, including:
