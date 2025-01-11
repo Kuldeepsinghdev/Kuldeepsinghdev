@@ -24,9 +24,6 @@ I specialize in developing cutting-edge mobile applications and web systems, wit
   - SQL and NoSQL databases
   - Data architecture and solutions design
 
-- **API Design**: 
-  - API Definition and Design
-
 - **Cloud Technologies**: 
   - AWS API Gateway
   - AWS S3
