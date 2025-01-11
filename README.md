@@ -9,7 +9,8 @@ I specialize in building cutting-edge mobile applications and web systems, with 
 - **Web and Server-Side Development:** C#, .NET Core, .NET MVC, Angular, TypeScript, GraphQL, Microservices architecture
 - **Mobile Application Development:** Swift, SwiftUI, Objective-C, Flutter, Flutter-Flow  
 - **Database Management:** SQL and NoSQL databases, data architecture, and solutions design  
-- **Cloud Technologies:** AWS API Gateway, AWS S3  
+- **Cloud Technologies:** AWS API Gateway, AWS S3
+- **AI-Powered No-Code Tools:** LLM Coder, Bolt.new, Lovabalke, Voiceflow, Cogniflow, BuildAI
 
 **AI and Advanced Skills**  
 - Natural Language Processing (NLP) for text analysis and generation  
