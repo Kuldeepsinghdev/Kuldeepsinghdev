@@ -1,4 +1,4 @@
-**Intro:-**
+**Introduction**
 With over a decade of experience in the dynamic software industry, I bring a wealth of expertise across diverse sectors, including payment solutions, culinary establishments, cryptocurrency technologies, and social networking platforms. My career spans organizations of all sizes, from agile startups to established corporate giants, equipping me with a versatile skill set and a deep understanding of technical and business challenges.
 
 **Technical Expertise**  
