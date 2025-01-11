@@ -47,7 +47,7 @@ My career has been defined by a relentless pursuit of excellence, characterized 
 
 ---
 
-Feel free to reach out or explore my projects to learn more about my work and contributions to the software development community @ kuldeepsingh.dev@outlook.com.
+Feel free to reach out or explore my projects to learn more about my work and contributions @ kuldeepsingh.dev@outlook.com.
 
 
 <!---
