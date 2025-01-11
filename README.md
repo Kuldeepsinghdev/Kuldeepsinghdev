@@ -7,7 +7,7 @@ With over a decade of experience in the dynamic software industry, I bring a wea
 I specialize in building cutting-edge mobile applications and web systems, with proficiency in:  
 
 - **Web and Server-Side Development:** C#, .NET Core, .NET MVC, Angular, TypeScript, GraphQL, Microservices architecture
-- - **Mobile Application Development:** Swift, SwiftUI, Objective-C, Flutter, Flutter-Flow  
+- **Mobile Application Development:** Swift, SwiftUI, Objective-C, Flutter, Flutter-Flow  
 - **Database Management:** SQL and NoSQL databases, data architecture, and solutions design  
 - **Cloud Technologies:** AWS API Gateway, AWS S3  
 
