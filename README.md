@@ -1,4 +1,4 @@
-
+**Intro:-**
 With over a decade of experience in the dynamic software industry, I bring a wealth of expertise across diverse sectors, including payment solutions, culinary establishments, cryptocurrency technologies, and social networking platforms. My career spans organizations of all sizes, from agile startups to established corporate giants, equipping me with a versatile skill set and a deep understanding of technical and business challenges.
 
 **Technical Expertise**  
@@ -20,7 +20,7 @@ I excel in leading multifaceted teams through complex projects, with a focus on:
 - Effective communication and collaboration with clients, stakeholders, and teams  
 - Driving innovation and delivering high-impact solutions  
 
-**My Philosophy**  
+**My Approach**  
 My career is defined by a relentless pursuit of excellence, adaptability, and a passion for pushing technical boundaries. I thrive on leveraging my expertise to solve complex problems, innovate, and deliver exceptional value in the ever-evolving software industry.
 
 ## Resume --- [Kuldeep_updated_Resume.pdf](https://github.com/user-attachments/files/18076055/Kuldeep_updated_Resume.pdf)
