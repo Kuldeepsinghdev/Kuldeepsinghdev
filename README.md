@@ -11,6 +11,7 @@ I specialize in building cutting-edge mobile applications and web systems, with 
 - **Database Management:** SQL and NoSQL databases, data architecture, and solutions design  
 - **Cloud Technologies:** AWS API Gateway, AWS S3
 - **AI-Powered No-Code Tools:** LLM Coder, Bolt.new, Lovabalke, Voiceflow, Cogniflow, BuildAI
+- **AI Agent Tools:** AutoGPT, BabyAGI, AgentGPT, SuperAGI, GPT Engineer, CrewAI, Microsoft Autogen, LangChain, Rasa, Hugging Face Agents
 
 **AI and Advanced Skills**  
 - Natural Language Processing (NLP) for text analysis and generation  
